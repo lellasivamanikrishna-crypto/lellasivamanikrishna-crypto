@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer | Full Stack Python Developer (In Training) | Skilled in C Programming | Quick Learner | Passionate About Learning,Innovation,Coding & Professional Growth
+Aspiring Software Engineer | Full Stack Python Developer | Skilled in C Programming | Quick Learner | Passionate About Learning,Innovation,Coding & Professional Growth
 
 
 ## 🌐 Socials:
